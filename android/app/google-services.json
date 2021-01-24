@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "682320693363",
+    "firebase_url": "https://smartappdetector.firebaseio.com",
+    "project_id": "smartappdetector",
+    "storage_bucket": "smartappdetector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682320693363:android:a913dd20c22ab5a901c206",
+        "android_client_info": {
+          "package_name": "com.example.smartdetectorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682320693363-3sto6ocmujpjg7781uml1rtsn3fbnikh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPAE2GJku0h8mltRDHsWzZra583pQseBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682320693363-3sto6ocmujpjg7781uml1rtsn3fbnikh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
