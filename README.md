@@ -1,6 +1,6 @@
 # smartdetectorapp
 
-A new Flutter application.
+my graduation project with flutter to detect skin disease using firebase for user authentications and it's backend the machine learning to train the models and flask api between machine learning and flutter
 
 ## Getting Started
 
